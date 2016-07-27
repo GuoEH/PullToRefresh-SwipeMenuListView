@@ -1,0 +1,10 @@
+#忽视bin文件夹
+bin/
+
+#忽视gen文件夹
+gen/
+proguard/
+
+
+#忽视 project.properties
+*.DS_Store
